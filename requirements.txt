@@ -2,5 +2,10 @@ numpy
 pandas
 geopandas
 matplotlib
+<<<<<<< HEAD
 skit-learn
 fiona
+=======
+fiona
+scikit-learn
+>>>>>>> a657f11501acde4d797c59fce0f5f067dd00f0d1

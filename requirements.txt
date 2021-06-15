@@ -2,11 +2,8 @@ numpy
 pandas
 geopandas
 matplotlib
-<<<<<<< HEAD
 scikit-learn
 esda
 libpysal
-=======
 fiona
 scikit-learn
->>>>>>> f883e5bc8ebe6addc60eb86050680b7f67886c1f
